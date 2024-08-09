@@ -4,19 +4,32 @@ A Simple Android App to calculate volume of different shapes.
 Inspired by the Udemy course on [**The Complete Android 15 Course -Build 82 Apps [Java& Kotlin]**](https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android/) Created by [Abbass Masri](https://www.udemy.com/user/mahmoud-masri-7/).
 
 # Understood and Implemented concepts-
-* Views & Widgets
-* TextView
-* Button
-* EditText
-* Set particular image as background
-* setOnClickListener()
-* GridView Layouts
-* Model Class
-* Custom GridView Adapter
-* getView() Method
-* Layout Inflater
+* Android Components
+  * Activity
+    * State Changes
+      * onSaveInstanceState(@NonNull Bundle outState)
 * Use of Intent
-* View Holder Class
+  * Explicit Intents
+* Static User Interface
+  * Views & Widgets
+    * TextView
+    * EditText
+    * Button
+      * setOnClickListener()
+  * ViewGroup
+    * ConstraintLayout
+  * GridView Layouts
+    * Custom GridView Adapter
+    * getView() Method
+    * Layout Inflater
+    * View Holder Class
+* Model Class
+* UI Resources
+  * Drawables
+    * Set particular image as background
+* Support User Interface
+  * Toast
+
 
 # Output Screenshot-
 <p align="center">
